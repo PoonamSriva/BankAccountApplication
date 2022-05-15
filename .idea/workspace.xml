@@ -68,7 +68,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.BankAccountTest.shouldNotWithdrawNegative500WhenWeHave1000Balance">
+  <component name="RunManager" selected="JUnit.BankAccountTest">
     <configuration name="BankAccountTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="BankAccountApplication" />
       <option name="PACKAGE_NAME" value="" />
@@ -78,21 +78,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BankAccountTest.shouldDeposit500WhenWeHave1000Balance" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BankAccountTest.shouldKeepMinimumBalanceOf100" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="BankAccountApplication" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="BankAccountTest" />
-      <option name="METHOD_NAME" value="shouldDeposit500WhenWeHave1000Balance" />
+      <option name="METHOD_NAME" value="shouldKeepMinimumBalanceOf100" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BankAccountTest.shouldNotDepositNegative500WhenWeHave1000Balance" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BankAccountTest.shouldKeepMinimumBalanceOf200" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="BankAccountApplication" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="BankAccountTest" />
-      <option name="METHOD_NAME" value="shouldNotDepositNegative500WhenWeHave1000Balance" />
+      <option name="METHOD_NAME" value="shouldKeepMinimumBalanceOf200" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -131,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BankAccountTest" />
+        <item itemvalue="JUnit.BankAccountTest.shouldKeepMinimumBalanceOf200" />
+        <item itemvalue="JUnit.BankAccountTest.shouldKeepMinimumBalanceOf100" />
         <item itemvalue="JUnit.BankAccountTest.shouldNotWithdrawNegative500WhenWeHave1000Balance" />
         <item itemvalue="JUnit.BankAccountTest.shouldWithdraw500WhenWeHave1000Balance" />
-        <item itemvalue="JUnit.BankAccountTest.shouldNotDepositNegative500WhenWeHave1000Balance" />
-        <item itemvalue="JUnit.BankAccountTest" />
-        <item itemvalue="JUnit.BankAccountTest.shouldDeposit500WhenWeHave1000Balance" />
       </list>
     </recent_temporary>
   </component>
