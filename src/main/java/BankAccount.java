@@ -10,11 +10,20 @@ public class BankAccount {
     }
 
     public void deposit(double amount) {
-        balance = balance + amount;
+        if (amount >= 0) {
+            balance = balance + amount;
+        }
+
     }
 
     public void withdraw(double amount) {
-        balance = balance - amount;
+        if (amount >= 0) {
+            if (balance - amount >= 0) {
+                balance = balance - amount;
+            }
+        }
+
+
     }
 
     public double getBalance() {
