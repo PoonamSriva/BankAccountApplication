@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c46fc25-b0a5-48cc-b38f-d58172b8d2d9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CalculatorTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BankAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/BankAccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BankAccountTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +68,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.BankAccountTest">
+  <component name="RunManager" selected="JUnit.CalculatorTest">
     <configuration name="BankAccountTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="BankAccountApplication" />
       <option name="PACKAGE_NAME" value="" />
@@ -98,21 +98,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BankAccountTest.shouldNotWithdrawNegative500WhenWeHave1000Balance" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="BankAccountApplication" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="BankAccountTest" />
-      <option name="METHOD_NAME" value="shouldNotWithdrawNegative500WhenWeHave1000Balance" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="CalculatorTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BankAccountTest.shouldWithdraw500WhenWeHave1000Balance" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CalculatorTest.shouldAdd1and10" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="BankAccountApplication" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="BankAccountTest" />
-      <option name="METHOD_NAME" value="shouldWithdraw500WhenWeHave1000Balance" />
+      <option name="MAIN_CLASS_NAME" value="CalculatorTest" />
+      <option name="METHOD_NAME" value="shouldAdd1and10" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -131,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CalculatorTest" />
+        <item itemvalue="JUnit.CalculatorTest.shouldAdd1and10" />
         <item itemvalue="JUnit.BankAccountTest" />
         <item itemvalue="JUnit.BankAccountTest.shouldKeepMinimumBalanceOf200" />
         <item itemvalue="JUnit.BankAccountTest.shouldKeepMinimumBalanceOf100" />
-        <item itemvalue="JUnit.BankAccountTest.shouldNotWithdrawNegative500WhenWeHave1000Balance" />
-        <item itemvalue="JUnit.BankAccountTest.shouldWithdraw500WhenWeHave1000Balance" />
       </list>
     </recent_temporary>
   </component>
